@@ -1,1 +1,1 @@
-This is project for GS3210 capstone for GIS application specialsit post graduate diploma for College of North Atlantic, Corner Brook Campus
+This is project for geospatial data using Arcpy package of ArcGIS pro 
